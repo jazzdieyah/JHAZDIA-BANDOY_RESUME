@@ -56,11 +56,6 @@ img{
     font-weight: small;
     font-size: 15px;
 }
-.horizontal-line {
-    border: none; 
-    border-top: 2px solid #000;
-    width: 95%;
-}
 .img1{
     float: left;
     padding:10px;
